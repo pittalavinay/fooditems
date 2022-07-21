@@ -1,0 +1,24 @@
+.div{
+  margin-left: 900px;
+  display: flex;
+  align-items: center;
+}
+.food:hover{
+  color:"red";
+}
+.text
+{
+  border-radius: 100px;
+}
+.col
+{
+  margin-top: 90px;
+}
+.carouselslide
+{
+  margin-top: -90px;
+}
+.button
+{
+  background-color: white;
+}
